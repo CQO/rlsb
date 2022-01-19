@@ -1,0 +1,5 @@
+1.安装Cmake
+
+
+pip install opencv-python-headless==4.5.2.52
+pip install opencv-contrib-python
